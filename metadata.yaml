@@ -1,0 +1,57 @@
+_repo: Stories-by-American-Authors-Volume-1_11436
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Matthews, Brander
+    aliases:
+    - Matthews, James Brander
+    - Penn, Arthur
+    - Matthews, J. Brander (James Brander)
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '1992'
+    url: http://www.gutenberg.org/2009/agents/1992
+    wikipedia: http://en.wikipedia.org/wiki/Brander_Matthews
+  - agent_name: Davis, Rebecca Harding
+    alias: Davis, R. H. (Rebecca Harding)
+    birthdate: 1831
+    deathdate: 1910
+    gutenberg_agent_id: '186'
+    url: http://www.gutenberg.org/2009/agents/186
+    wikipedia: http://en.wikipedia.org/wiki/Rebecca_Harding_Davis
+  - agent_name: Webster, Albert
+    gutenberg_agent_id: '36417'
+    url: http://www.gutenberg.org/2009/agents/36417
+  - agent_name: Bunner, H. C. (Henry Cuyler)
+    alias: Bunner, Henry Cuyler
+    birthdate: 1855
+    deathdate: 1896
+    gutenberg_agent_id: '6156'
+    url: http://www.gutenberg.org/2009/agents/6156
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Cuyler_Bunner
+  - agent_name: Taylor, Bayard
+    alias: Taylor, James Bayard
+    birthdate: 1825
+    deathdate: 1878
+    gutenberg_agent_id: '167'
+    url: http://www.gutenberg.org/2009/agents/167
+    wikipedia: http://en.wikipedia.org/wiki/Bayard_Taylor
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11436'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: "Who Was She, By Taylor.\r\nThe Documents in the Case, By Matthews\
+  \ and Bunner.\r\nOne of the Thirty Pieces, By Bishop.\r\nBalacchi Brothers, By Davis.\r\
+  \nAn Operation in Money, By Webster."
+title: Stories by American Authors, Volume 1
+url: http://www.gutenberg.org/ebooks/11436
